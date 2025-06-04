@@ -702,10 +702,11 @@ a {
 
 .footer .row {
   display: flex;
+  background: orange;
 }
 
 .footer .row .column1:nth-child(1) {
-  width: 23.2%;
+  width: 23.2%;;
 }
 
 .footer .row .column2:nth-child(2) {
@@ -724,6 +725,7 @@ a {
   color: #2e2e2e;
   font-size: 1.8rem;
   font-weight: 500;
+  margin-top: 10px;
 }
 
 .footer a {
