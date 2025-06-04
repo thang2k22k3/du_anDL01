@@ -702,7 +702,6 @@ a {
 
 .footer .row {
   display: flex;
-  background: orange;
 }
 
 .footer .row .column1:nth-child(1) {
